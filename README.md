@@ -1,2 +1,2 @@
-# phone-alart
-phone validation api
+# phone-alert
+phone validation API
